@@ -1,8 +1,13 @@
-# xeus-python + JupyterLite demo
+# Robert's JupyterLite Sandbox with Xeus
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb)
+Created from the [xeus-python-demo](https://github.com/jupyterlite/xeus-python-demo). 
+`.../lab/index.html`
+`.../retro/notebooks/?path=demo.ipynb`
+`.../repl/`
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Later: see how to pre-install necessary packages.
+
+Stuff from the demo repo:
 
 ## ✨ Try it in your browser ✨
 
